@@ -24,27 +24,8 @@ Tecnologias usadas:
 - Posicionamento de elementos;
 - Flex - box e suas propriedades;
 - Hover - no menu  botões
-- Menu hamburger - tutoriais via YouTube
-
-### 
-
-### 
-
-<p> 
-    <img width="1000" height="600" src="src/gif8.gif" >
-</p>
-### Este projeto é responsivo, o javascript auxiliou para a criação de um menu hamburguer para telas menores.
-
-<p> 
-    <img width="1000" height="600" src="src/gif9.gif" >
-</p>
+- Menu hamburger - tutoriais via YouTube.
 
 
-### e o display grid para o possicionamento do cardápio
 
-<p> 
-    <img width="1000" height="600" src="src/gif10.gif" >
-</p>
-
-
-# luminea.github.io
+![](C:\Users\Makeyshu\Desktop\Treino de HTML & CSS\ElasNaTech\Atividade_03\logo.png)
