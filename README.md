@@ -25,7 +25,3 @@ Tecnologias usadas:
 - Flex - box e suas propriedades;
 - Hover - no menu  botões
 - Menu hamburger - tutoriais via YouTube.
-
-
-
-![](C:\Users\Makeyshu\Desktop\Treino de HTML & CSS\ElasNaTech\Atividade_03\logo.png)
