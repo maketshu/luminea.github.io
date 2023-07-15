@@ -1,4 +1,4 @@
-![](C:\Users\Makeyshu\Desktop\Treino de HTML & CSS\ElasNaTech\elas_natech-logo.png)
+![](https://github.com/maketshu/luminea.github.io/blob/main/img/elas_natech-logo.png)
 
 ## Desafio 03 
 
