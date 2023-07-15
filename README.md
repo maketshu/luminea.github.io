@@ -1,4 +1,4 @@
-![](https://github.com/maketshu/luminea.github.io/blob/main/img/elas_natech-logo.png)
+<center><img src="https://github.com/maketshu/luminea.github.io/blob/main/img/elas_natech-logo.png"/></center>
 
 ## Desafio 03 
 
