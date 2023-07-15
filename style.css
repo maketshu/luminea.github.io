@@ -327,6 +327,13 @@ html {
     color: #ffc506;
 }
 
+/*.localiacaogoogle {
+    display: inline-block;
+    flex-wrap: ;
+    justify-content: center;
+    align-items: center;
+}*/
+
 footer {
     height: 25px;
     background-color: #000000;

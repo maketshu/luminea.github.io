@@ -1,13 +1,13 @@
-## Desafio 03 - Elas na_tech / JA Brasil
+![](C:\Users\Makeyshu\Desktop\Treino de HTML & CSS\ElasNaTech\elas_natech-logo.png)
+
+## Desafio 03 
 
 
 ​				Objetivo do projeto é a criação de um cardápio utilizando as ferramentas ensinadas até o momento em aula.
 
 ​		
 
-​				Após concluir as aulas solicitadas, fui em busca de inspiração na internet. Após alguns tutoriais explicando um pouca mais sobre o JavaSript, 
-
-cheguei ao resultado da **Lumine Pizzas**.
+​				Após concluir as aulas solicitadas, fui em busca de inspiração na internet. Após alguns tutoriais explicando um pouco mais sobre o JavaSript, cheguei ao resultado da **Luminea Pizzas**.
 
 
 
